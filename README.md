@@ -1,4 +1,4 @@
-# Comparison of Convolutional Neural Network Models
+# Comparison of Convolutional Neural Network Models for Pest Detection in Corn Crop
 
 This repository contains our final work for the Computer Engineering graduation at the [National Telecommunications Institute](http://inatel.br/) located in Santa Rita do Sapucaí, Brazil, titled "Comparison of Convolutional Neural Network Models for Pest Detection in Corn Crop".
 
